@@ -1,0 +1,14 @@
+
+body,html{
+  line-height: 1;
+  font-weight:200;
+  font-family: 'PingFang SC' ,'STHeitiSC-Light','Helvetical-Light';
+}
+.clearfix:after{
+  content:'';
+  display: block;
+  clear: both;
+  height:0;
+  overflow: hidden;
+}
+
